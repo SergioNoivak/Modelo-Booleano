@@ -119,3 +119,8 @@ Javascript AND linguagem OR dsafdsafdsaf
 arquivosRelevantes:  [ '1.txt', '2.txt' ]
  ```
  
+ Na saída ``aquivos relevantes`` fica apenas os documentos que são relevantes para a query escolhida.
+ 
+ ## Quer saber como esse modelo foi desenvolvido??
+ 
+ Tenho um tutorial que explica como construir esse modelo booleano em [Livro-RiJS](https://github.com/SergioNoivak/Livro-RiJS)
