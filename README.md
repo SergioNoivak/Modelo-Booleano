@@ -124,3 +124,8 @@ arquivosRelevantes:  [ '1.txt', '2.txt' ]
  ## Quer saber como esse modelo foi desenvolvido??
  
  Tenho um tutorial que explica como construir esse modelo booleano em [Livro-RiJS](https://github.com/SergioNoivak/Livro-RiJS)
+ 
+ 
+ ## Dúvidas??
+ Me mande um email em serginhosnovak@hotmail.com, ou entre em contato comigo via redes sociais: Sergio Souza Novak.
+
